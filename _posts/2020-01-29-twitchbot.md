@@ -4,6 +4,7 @@ title: Creating a Twitch Bot in Python
 categories: [Programming,Bot,Twitch,Python]
 excerpt:  How I created my own twitch bot for my channel and how it helps me run my stream
 ---
+
 I have always wanted to try this "live streaming" thing out for a while now. After a couple of tries over the years, I am committed to stream consistently on Twitch and have been for a couple weeks now. Since I am mainly going to be streaming my programming sessions and also talk tech, I needed to brainstorm personal projects for me to do on stream. Thus, I decided to create my own twitch bot for my twitch stream called "SnowForgeBot". 
 
 This idea/inspiration came from a fellow twitch streamer in the Science & Technology catagory called [Adam13531](https://www.twitch.tv/adam13531). Besides being a tremendous motivation to code in general, he has built himself a twitch bot with features such as changing bot responses to commands like `!today` which gives the viewer insight into what he is working on that day. Even though he does a phenomenal job with intracting with his chat, the bot acts as a helping hand in the intraction with the viewers, helping retain and attract more to his channel. 
